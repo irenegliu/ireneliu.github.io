@@ -46,7 +46,7 @@ Feel free to check out my profile links below:
 
 You can view my website by visiting the following URL:
 
-- [https://ireneliu.github.io](https://ireneliu.github.io)
+- [[https://github.com/irenegliu/ireneliu.github.io](https://github.com/irenegliu/ireneliu.github.io)]
 
 ## Contact
 
