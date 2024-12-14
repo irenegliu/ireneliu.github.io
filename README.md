@@ -9,8 +9,8 @@ I’m Irene Liu, a Data Scientist and Researcher specializing in driving high RO
 
 Feel free to check out my profile links below:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/irenegliu/))
-- [Medium]([https://medium.com/@your-medium-handle](https://medium.com/@enjoylifewithirene))
+- [LinkedIn](https://www.linkedin.com/in/irenegliu/)
+- [Medium](https://medium.com/@enjoylifewithirene)
 
 ## Projects
 
