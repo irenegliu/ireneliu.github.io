@@ -14,11 +14,9 @@ Feel free to check out my profile links below:
 
 ## Projects
 
+- **[Multimodal Depression Detection via Speech Recognition]**: Currently developing an advanced multimodal depression detection framework using Bayesian multimodal fusion. The model integrates speech embeddings extracted from Facebook AI's Wav2Vec 2.0, capturing multi-layer acoustic, phonetic, and semantic features, with EEG-based neural activity features derived via Bayesian Gaussian Processes (GPs) and Bayesian Hidden Markov Models (HMMs). Utilizing a Bayesian Cross-Modal Attention mechanism, EEG and speech features are aligned effectively in a shared latent representation. The final depression classification employs a Bayesian Neural Network (BNN) to quantify uncertainty in predictions, enhancing clinical interpretability and decision-making confidence. Systematic preprocessing ensures high-quality input data by performing extensive EEG signal processing (band-pass filtering, artifact removal, normalization, segmentation) and speech signal normalization (resampling, mono conversion, silence trimming). The project leverages open-source multimodal datasets comprising EEG recordings and speech samples labeled by emotional states, crucial for robust depression analysis. This ongoing research aims to achieve superior accuracy and reliability compared to unimodal models, providing an uncertainty-aware diagnostic tool suitable for clinical depression screening, affective computing, and mental health diagnostics. (In Progress)
+  
 - **[NLP and Multilingual Analysis Using Hugging Face]**: Utilized Hugging Face’s pipelines() in Jupyter Notebook to perform English-to-Chinese translation and back-translation, assessing translation quality and reconstruction accuracy. Conducted text generation, summarization, question-answering, Named Entity Recognition (NER), and sentiment analysis. This project showcases proficiency in natural language processing and model evaluation, skills that are vital for managing and interpreting healthcare data across diverse populations and ensuring culturally sensitive and accurate communication in AI-driven healthcare solutions.
-
-- **[Binary Classification of Census Data]**: Applied Random Forest and Boosting algorithms to classify income data, showcasing strong skills in analyzing large datasets and deriving actionable insights for decision-making.
-
-- **[Recommender System for Classic Rock Radio]**: Developed a recommendation system using neural networks built solely with NumPy, highlighting experience in personalization algorithms that enhance user experience—a skill relevant to customer engagement and experience strategies.
 
 - **[Image Classification using CNNs and CIFAR-10]**: Deployed convolutional neural networks for image classification, demonstrating expertise in deep learning and model optimization—key for understanding and communicating technical product features in a cloud-based environment.
 
@@ -42,11 +40,13 @@ Feel free to check out my profile links below:
 
 - **[Interactive Tableau Dashboards & Visualization]**: Created interactive dashboards combining Python analysis and Tableau visualization, demonstrating ability in clear, impactful data storytelling and effective communication of insights—critical for strategic decision-making and stakeholder engagement.
 
-- **[Warehouse Inventory & Delivery Optimization]**: Optimized supply chain processes using Python-based predictive analytics (scikit-learn, Pandas) for warehouse inventory selection, delivery scheduling, and emergency logistics management. Demonstrated practical experience in predictive demand modeling and operational efficiency crucial for supply chain optimization.
+- **[Warehouse Inventory & Delivery Optimization]**: Optimized supply chain processes by developing predictive analytics solutions (Python, scikit-learn, XGBoost, Pandas) to accurately forecast demand, proactively identify inventory risks, and effectively manage warehouse inventory. Reduced forecast error by 6.3% through collaborative forecasting and minimized backorders by strategically optimizing safety stock levels and shortening lead times. Demonstrated practical expertise in leveraging predictive modeling, statistical analysis, and operational insights to drive significant improvements in inventory management, delivery scheduling, and emergency logistics.
 
 - **[Bayesian Modeling & Probabilistic Analysis]**: Developed Bayesian inference models utilizing PyMC for probabilistic analysis, posterior estimation, and uncertainty quantification. Highlighted advanced statistical modeling capabilities essential for decision-making under uncertainty and effective risk management.
 
-- **[Multimodal Depression Detection via Speech Recognition]**: Currently developing a multimodal AI model using speech recognition and natural language processing (NLP) with Python libraries (Librosa, PyTorch, Hugging Face transformers) to detect depression indicators from audio signals. The project emphasizes multimodal analytics skills, emotional recognition, and the creation of accurate, culturally sensitive healthcare AI solutions.
+- **[Binary Classification of Census Data]**: Applied Random Forest and Boosting algorithms to classify income data, showcasing strong skills in analyzing large datasets and deriving actionable insights for decision-making.
+
+- **[Recommender System for Classic Rock Radio]**: Developed a recommendation system using neural networks built solely with NumPy, highlighting experience in personalization algorithms that enhance user experience—a skill relevant to customer engagement and experience strategies.
 
 ## Education
 
@@ -59,13 +59,15 @@ Feel free to check out my profile links below:
 
 ### Northwestern University  
 **M.S. in Integrated Marketing Communications** | 2018 - 2020  
-- Focused on roles such as CMO, Chief Brand Officer, and Chief Customer Officer, gaining expertise in understanding consumer needs and building strong brands.  
-- Developed strategies to engage consumers meaningfully, solve marketing challenges, and balance qualitative and quantitative data to create innovative communications strategies.
+- **Strategic Brand & Product Management**: Built expertise in managing product portfolios, delivering measurable KPIs, optimizing ROI, and generating incremental margins through targeted brand strategies and marketing initiatives.
+- **Consumer Insights & Innovative Communication**: Developed skills to deeply understand consumer needs, leveraging a blend of qualitative and quantitative analysis to craft impactful, data-driven communication strategies.
+- **Executive-Level Leadership & Decision-Making**: Prepared for senior roles such as CMO, Chief Brand Officer, and Chief Customer Officer through rigorous training in strategic planning, cross-functional collaboration, and leadership within integrated marketing communications.
 
 ### Purdue University, College of Agriculture  
 **B.S. in Agribusiness, Finance** | 2013 - 2016  
-- Specialized in the operations of agribusiness and the food industry, with a strong foundation in transferable data analytics, data analysis, and data-driven decision-making.  
-- Focused on enhancing strategic thinking and innovation, with a concentration in finance to manage risks and evaluate business opportunities across sectors.
+- **Business Fundamentals & Organizational Insight**: Gained comprehensive knowledge of organizational structures, business law, international trade practices, economics, and statistics, enabling informed strategic decision-making across business contexts.
+- **Financial Acumen & Accounting Proficiency**: Developed a strong foundation in finance and accounting, including expertise in interpreting balance sheets, financial analysis, risk management, and evaluation of business opportunities.
+- **Agribusiness & Data-Driven Decision-Making**: Specialized in operations within agribusiness and the food industry, emphasizing data analytics, quantitative analysis, and evidence-based strategies to drive innovation and enhance operational efficiency.
 
 
 ## How to View the Website
