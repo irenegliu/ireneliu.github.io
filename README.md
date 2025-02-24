@@ -22,6 +22,32 @@ Feel free to check out my profile links below:
 
 - **[Image Classification using CNNs and CIFAR-10]**: Deployed convolutional neural networks for image classification, demonstrating expertise in deep learning and model optimization—key for understanding and communicating technical product features in a cloud-based environment.
 
+- **[Hotel Revenue and Occupancy Data Analysis (Victoria, Australia)]**: Conducted exploratory data analysis (EDA) using Python libraries (Pandas, NumPy, Matplotlib) to visualize trends in motel revenue, room occupancy, and CPI, demonstrating skills in economic trend analysis and data-driven storytelling—essential for strategic planning and decision-making in hospitality and tourism management.
+
+- **[Chicago Crime Data Analysis with Big Data (PySpark and GCP)]**: Built a scalable Spark-based data pipeline on Google Cloud Platform (GCP) to analyze Chicago crime incidents alongside COVID-19 data, showcasing proficiency in big data engineering, distributed computing, cloud platforms, and the ability to extract actionable insights from large urban datasets.
+
+- **[Healthcare Readmission Prediction Using Big Data (PySpark)]**: Developed predictive analytics models leveraging PySpark to identify patients at high risk of hospital readmission. Demonstrated expertise in integrating predictive modeling with large-scale healthcare data, essential for improving patient outcomes and operational efficiency.
+
+- **[Water Temperature Prediction via Regression Techniques]**: Implemented regression models (Gradient Descent, Normal Equation) using scikit-learn to predict water temperature. Showcased strong knowledge of supervised learning methods vital for environmental forecasting and decision support systems.
+
+- **[Urban Land Classification with Support Vector Machines (SVMs)]**: Utilized Support Vector Machines (SVM) for multiclassification of urban land types, demonstrating proficiency in spatial data analysis and machine learning techniques crucial for applications in urban planning and geographic information systems.
+
+- **[Neural Network Development from Scratch (NumPy)]**: Developed neural network models entirely with NumPy, highlighting deep understanding of neural architectures, foundational machine learning algorithms, and computational efficiency critical for advanced AI solution development.
+
+- **[Security Breach Detection Using RNNs and LSTMs]**: Built recurrent neural network (RNN) and Long Short-Term Memory (LSTM) models for anomaly detection in cybersecurity, showcasing skills in sequential data modeling and real-time security monitoring, essential for robust threat detection systems.
+
+- **[Complex Date-Time Handling in Python]**: Implemented robust Python scripts using Pandas and datetime libraries to accurately transform and standardize complex date-time formats, showcasing data preprocessing and wrangling skills vital for ensuring analytical accuracy across diverse datasets.
+
+- **[Jupyter Notebook Environment Troubleshooting]**: Resolved complex software environment issues related to Jupyter Notebook, including version conflicts, migration errors, and extension compatibility. This highlights technical troubleshooting expertise and proficiency in maintaining stable data science environments.
+
+- **[Interactive Tableau Dashboards & Visualization]**: Created interactive dashboards combining Python analysis and Tableau visualization, demonstrating ability in clear, impactful data storytelling and effective communication of insights—critical for strategic decision-making and stakeholder engagement.
+
+- **[Warehouse Inventory & Delivery Optimization]**: Optimized supply chain processes using Python-based predictive analytics (scikit-learn, Pandas) for warehouse inventory selection, delivery scheduling, and emergency logistics management. Demonstrated practical experience in predictive demand modeling and operational efficiency crucial for supply chain optimization.
+
+- **[Bayesian Modeling & Probabilistic Analysis]**: Developed Bayesian inference models utilizing PyMC for probabilistic analysis, posterior estimation, and uncertainty quantification. Highlighted advanced statistical modeling capabilities essential for decision-making under uncertainty and effective risk management.
+
+- **[Multimodal Depression Detection via Speech Recognition]**: Currently developing a multimodal AI model using speech recognition and natural language processing (NLP) with Python libraries (Librosa, PyTorch, Hugging Face transformers) to detect depression indicators from audio signals. The project emphasizes multimodal analytics skills, emotional recognition, and the creation of accurate, culturally sensitive healthcare AI solutions.
+
 ## Education
 
 ### University of Chicago, Physical Sciences Division  
