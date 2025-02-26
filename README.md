@@ -22,6 +22,8 @@ Feel free to check out my profile links below:
 
 - **[Hotel Revenue and Occupancy Data Analysis (Victoria, Australia)]**: Conducted exploratory data analysis (EDA) using Python libraries (Pandas, NumPy, Matplotlib) to visualize trends in motel revenue, room occupancy, and CPI, demonstrating skills in economic trend analysis and data-driven storytelling—essential for strategic planning and decision-making in hospitality and tourism management.
 
+- **[Retrieval-Augmented Generation (RAG) Pipeline]**: Implemented a RAG pipeline using Haystack, OpenAI (GPT models), and Google Gemini for efficient question-answering. Integrated Dense Passage Retrieval (DPR) and FARMReader with the SQuAD dataset to enhance document retrieval and response generation. Optimized multi-query processing, LLM integration, and error handling, resolving dataset caching and deprecated API issues. Future improvements include vector database integration, cost optimization, and scalability enhancements for real-world applications.
+
 - **[Chicago Crime Data Analysis with Big Data (PySpark and GCP)]**: Built a scalable Spark-based data pipeline on Google Cloud Platform (GCP) to analyze Chicago crime incidents alongside COVID-19 data, showcasing proficiency in big data engineering, distributed computing, cloud platforms, and the ability to extract actionable insights from large urban datasets.
 
 - **[Healthcare Readmission Prediction Using Big Data (PySpark)]**: Developed predictive analytics models leveraging PySpark to identify patients at high risk of hospital readmission. Demonstrated expertise in integrating predictive modeling with large-scale healthcare data, essential for improving patient outcomes and operational efficiency.
