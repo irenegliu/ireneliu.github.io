@@ -14,41 +14,54 @@ Feel free to check out my profile links below:
 
 ## Projects
 
-- **[Multimodal Depression Detection via Speech Recognition]**: Currently developing an advanced multimodal depression detection framework using Bayesian multimodal fusion. The model integrates speech embeddings extracted from Facebook AI's Wav2Vec 2.0, capturing multi-layer acoustic, phonetic, and semantic features, with EEG-based neural activity features derived via Bayesian Gaussian Processes (GPs) and Bayesian Hidden Markov Models (HMMs). Utilizing a Bayesian Cross-Modal Attention mechanism, EEG and speech features are aligned effectively in a shared latent representation. The final depression classification employs a Bayesian Neural Network (BNN) to quantify uncertainty in predictions, enhancing clinical interpretability and decision-making confidence. Systematic preprocessing ensures high-quality input data by performing extensive EEG signal processing (band-pass filtering, artifact removal, normalization, segmentation) and speech signal normalization (resampling, mono conversion, silence trimming). The project leverages open-source multimodal datasets comprising EEG recordings and speech samples labeled by emotional states, crucial for robust depression analysis. This ongoing research aims to achieve superior accuracy and reliability compared to unimodal models, providing an uncertainty-aware diagnostic tool suitable for clinical depression screening, affective computing, and mental health diagnostics. (In Progress)
+- **[Multimodal Depression Detection via Speech Recognition]**: Enhancing clinical decision-making and mental health diagnostics by developing an AI-driven depression detection framework that quantifies uncertainty for more confident diagnoses. This solution integrates speech embeddings from Facebook AI’s Wav2Vec 2.0 and EEG-based neural activity features using Bayesian Gaussian Processes (GPs) and Hidden Markov Models (HMMs). A Bayesian Cross-Modal Attention mechanism aligns these modalities, while a Bayesian Neural Network (BNN) ensures reliable classification. Robust preprocessing of EEG and speech data ensures high-quality input, making this model a scalable tool for clinical screening, affective computing, and early mental health intervention.
   
-- **[NLP and Multilingual Analysis Using Hugging Face]**: Utilized Hugging Face’s transformer-based pipelines to perform tasks including English-to-Chinese translation, back-translation, text summarization, question-answering, text generation, Named Entity Recognition (NER), and sentiment analysis. Leveraged powerful LLMs from Hugging Face to conduct comprehensive multilingual natural language processing, highlighting skills in advanced language modeling and transformer architectures.
+**[Healthcare and Mental Health]**:
 
-- **[Image Classification using CNNs and CIFAR-10]**: Deployed convolutional neural networks for image classification, demonstrating expertise in deep learning and model optimization—key for understanding and communicating technical product features in a cloud-based environment.
+- ***[Multimodal Depression Detection via Speech Recognition]***: Developing an AI-driven framework that integrates speech and EEG data to enhance clinical decision-making in mental health diagnostics. ​
 
-- **[Hotel Revenue and Occupancy Data Analysis (Victoria, Australia)]**: Conducted exploratory data analysis (EDA) using Python libraries (Pandas, NumPy, Matplotlib) to visualize trends in motel revenue, room occupancy, and CPI, demonstrating skills in economic trend analysis and data-driven storytelling—essential for strategic planning and decision-making in hospitality and tourism management.
+- ***[Healthcare Readmission Prediction Using Big Data (PySpark)]***: Implementing predictive models to identify patients at high risk of hospital readmission, thereby optimizing resource allocation and improving patient outcomes.​
 
-- **[Retrieval-Augmented Generation (RAG) Pipeline]**: Implemented a RAG pipeline using Haystack, OpenAI (GPT models), and Google Gemini for efficient question-answering. Integrated Dense Passage Retrieval (DPR) and FARMReader with the SQuAD dataset to enhance document retrieval and response generation. Optimized multi-query processing, LLM integration, and error handling, resolving dataset caching and deprecated API issues. Future improvements include vector database integration, cost optimization, and scalability enhancements for real-world applications.
+**[Information Technology and Cybersecurity]**:
 
-- **[Chicago Crime Data Analysis with Big Data (PySpark and GCP)]**: Built a scalable Spark-based data pipeline on Google Cloud Platform (GCP) to analyze Chicago crime incidents alongside COVID-19 data, showcasing proficiency in big data engineering, distributed computing, cloud platforms, and the ability to extract actionable insights from large urban datasets.
+- ***[Security Breach Detection Using RNNs & LSTMs]***: Utilizing sequential data modeling to enhance real-time threat detection and bolster cybersecurity measures.​
+- ***[Complex Date-Time Handling in Python]***: Standardizing and processing complex date-time data to ensure analytical accuracy across time-sensitive business applications.​
+- ***[Jupyter Notebook Environment Troubleshooting]***: Resolving software conflicts to maintain stable AI and analytics infrastructure, thereby optimizing data science workflows.​
 
-- **[Healthcare Readmission Prediction Using Big Data (PySpark)]**: Developed predictive analytics models leveraging PySpark to identify patients at high risk of hospital readmission. Demonstrated expertise in integrating predictive modeling with large-scale healthcare data, essential for improving patient outcomes and operational efficiency.
+**[Finance and Banking]**:
 
-- **[Water Temperature Prediction via Regression Techniques]**: Implemented regression models (Gradient Descent, Normal Equation) using scikit-learn to predict water temperature. Showcased strong knowledge of supervised learning methods vital for environmental forecasting and decision support systems.
+- ***[Binary Classification of Census Data (Random Forest & Boosting)]***: Applying machine learning techniques to classify income data, extracting key socio-economic insights for financial and market strategy development.​
 
-- **[Urban Land Classification with Support Vector Machines (SVMs)]**: Utilized Support Vector Machines (SVM) for multiclassification of urban land types, demonstrating proficiency in spatial data analysis and machine learning techniques crucial for applications in urban planning and geographic information systems.
+**[Retail and E-commerce]**:
 
-- **[Neural Network Development from Scratch (NumPy)]**: Developed neural network models entirely with NumPy, highlighting deep understanding of neural architectures, foundational machine learning algorithms, and computational efficiency critical for advanced AI solution development.
+- ***[NLP and Multilingual Analysis Using Hugging Face]***: Leveraging transformer-based models for translation and sentiment analysis to enhance multilingual customer engagement and global market insights.​
+Interactive Tableau Dashboards & Data Visualization]***: Developing dynamic dashboards to transform raw data into strategic insights, enhancing stakeholder engagement and operational planning.​
+***[Warehouse Inventory & Delivery Optimization: Implementing predictive analytics to optimize inventory management and reduce operational risks, leading to improved supply chain efficiency.​
 
-- **[Security Breach Detection Using RNNs and LSTMs]**: Built recurrent neural network (RNN) and Long Short-Term Memory (LSTM) models for anomaly detection in cybersecurity, showcasing skills in sequential data modeling and real-time security monitoring, essential for robust threat detection systems.
+**[Manufacturing and Quality Control]**:
 
-- **[Complex Date-Time Handling in Python]**: Implemented robust Python scripts using Pandas and datetime libraries to accurately transform and standardize complex date-time formats, showcasing data preprocessing and wrangling skills vital for ensuring analytical accuracy across diverse datasets.
+- ***[Image Classification Using CNNs (CIFAR-10 Dataset)]***: Deploying convolutional neural networks to enhance image classification accuracy, essential for automated quality control and content personalization.​
+Transportation and Logistics:
 
-- **[Jupyter Notebook Environment Troubleshooting]**: Resolved complex software environment issues related to Jupyter Notebook, including version conflicts, migration errors, and extension compatibility. This highlights technical troubleshooting expertise and proficiency in maintaining stable data science environments.
+- ***[Chicago Crime Data Analysis with Big Data (PySpark & GCP)]***: Building scalable data pipelines to analyze urban crime trends, supporting resource allocation and risk mitigation strategies.​
 
-- **[Interactive Tableau Dashboards & Visualization]**: Created interactive dashboards combining Python analysis and Tableau visualization, demonstrating ability in clear, impactful data storytelling and effective communication of insights—critical for strategic decision-making and stakeholder engagement.
+**[Agriculture and Environmental Monitoring]**:
 
-- **[Warehouse Inventory & Delivery Optimization]**: Optimized supply chain processes by developing predictive analytics solutions (Python, scikit-learn, XGBoost, Pandas) to accurately forecast demand, proactively identify inventory risks, and effectively manage warehouse inventory. Reduced forecast error by 6.3% through collaborative forecasting and minimized backorders by strategically optimizing safety stock levels and shortening lead times. Demonstrated practical expertise in leveraging predictive modeling, statistical analysis, and operational insights to drive significant improvements in inventory management, delivery scheduling, and emergency logistics.
+- ***[Water Temperature Prediction Using Regression Techniques]***: Predicting water temperature trends through machine learning, enhancing environmental monitoring and decision support systems.​
+Urban Land Classification Using Support Vector Machines (SVMs): Classifying urban land types to aid in urban planning and infrastructure development.​
 
-- **[Bayesian Modeling & Probabilistic Analysis]**: Developed Bayesian inference models utilizing PyMC for probabilistic analysis, posterior estimation, and uncertainty quantification. Highlighted advanced statistical modeling capabilities essential for decision-making under uncertainty and effective risk management.
+**[Entertainment and Media]**:
 
-- **[Binary Classification of Census Data]**: Applied Random Forest and Boosting algorithms to classify income data, showcasing strong skills in analyzing large datasets and deriving actionable insights for decision-making.
+- ***[Recommender System for Classic Rock Radio]***: Developing a neural network-powered recommendation system for personalized content curation, boosting user engagement and customer retention.​
 
-- **[Recommender System for Classic Rock Radio]**: Developed a recommendation system using neural networks built solely with NumPy, highlighting experience in personalization algorithms that enhance user experience—a skill relevant to customer engagement and experience strategies.
+**[Education and Training]**:
+
+- ***[Neural Network Development from Scratch (NumPy)]***: Building neural network models to strengthen AI-driven automation and personalization strategies, applicable in educational tools and platforms.​
+
+**[General Business Applications]**:
+
+- ***[Retrieval-Augmented Generation (RAG) Pipeline for AI Search Optimization]***: Developing an AI-driven RAG pipeline to enhance document retrieval efficiency, optimizing business intelligence and decision support systems.​
+- ***[Bayesian Modeling & Probabilistic Analysis]***: Implementing Bayesian inference models to support strategic decision-making under uncertainty, enhancing forecasting accuracy for business planning.
 
 ## Education
 
