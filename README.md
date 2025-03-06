@@ -86,27 +86,28 @@ Feel free to check out my profile links below:
 ## Technical & Marketing Skills
 
 **[Data Analytics & Marketing Intelligence]**
-Predictive Modeling & Machine Learning: Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV
-Marketing Mix Modeling (MMM) & Attribution Analysis: Time Series Forecasting, Multi-Touch Attribution (MTA), Uplift Modeling
-Statistical Analysis & Business Forecasting: Regression Analysis, Clustering, A/B Testing, Bayesian Optimization
-Customer Segmentation & Personalization: RFM Analysis, Churn Prediction, Customer Lifetime Value (CLV)
+
+  - Predictive Modeling & Machine Learning: Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV
+  - Marketing Mix Modeling (MMM) & Attribution Analysis: Time Series Forecasting, Multi-Touch Attribution (MTA), Uplift Modeling
+  - Statistical Analysis & Business Forecasting: Regression Analysis, Clustering, A/B Testing, Bayesian Optimization
+  - Customer Segmentation & Personalization: RFM Analysis, Churn Prediction, Customer Lifetime Value (CLV)
 
 **[Marketing Technology & Automation]**
-CRM & Campaign Optimization: Salesforce, Marketo, HubSpot, Klaviyo, Mailchimp, Hootsuite
-Omnichannel Marketing Analytics: Google Analytics, Tableau, Looker, SQL-based Data Exploration
-A/B Testing & Experimentation: Design, Execution, and Analysis of Marketing Campaigns
+  - CRM & Campaign Optimization: Salesforce, Marketo, HubSpot, Klaviyo, Mailchimp, Hootsuite
+  - Omnichannel Marketing Analytics: Google Analytics, Tableau, Looker, SQL-based Data Exploration
+  - A/B Testing & Experimentation: Design, Execution, and Analysis of Marketing Campaigns
 
 **[Cloud & Big Data Processing]**
-Cloud Platforms: AWS (EC2, S3, Redshift, DynamoDB), Google BigQuery, Apache Airflow, Kubernetes, Hadoop
-ETL & Data Warehousing: Apache Spark, DynamoDB, AWS S3, MySQL
-Data Pipeline & Automation: SQL, Pandas, NumPy, Dplyr, RStudio
+  - Cloud Platforms: AWS (EC2, S3, Redshift, DynamoDB), Google BigQuery, Apache Airflow, Kubernetes, Hadoop
+  - ETL & Data Warehousing: Apache Spark, DynamoDB, AWS S3, MySQL
+  - Data Pipeline & Automation: SQL, Pandas, NumPy, Dplyr, RStudio
 
 **[Data Visualization & Business Intelligence]**
-Executive-Level Reporting & Insights Presentation: Tableau, Looker, Power BI
-Data Storytelling & Marketing Performance Dashboards: ROI Analysis, KPI Tracking, Competitive Benchmarking
+  - Executive-Level Reporting & Insights Presentation: Tableau, Looker, Power BI
+  - Data Storytelling & Marketing Performance Dashboards: ROI Analysis, KPI Tracking, Competitive Benchmarking
 
 **[Containerization & Deployment]**
-Model Deployment & Scalable Analytics: Docker, Kubernetes
+  - Model Deployment & Scalable Analytics: Docker, Kubernetes
 
 ## Interests
 
