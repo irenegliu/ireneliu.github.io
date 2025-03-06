@@ -1,11 +1,11 @@
 # ireneliu.github.io
 # My Portfolio
 
-Welcome to My Personal Website! This site highlights my work, achievements, and professional background. Here, you’ll find details about my industry experience, research, projects, and how to get in touch with me.
+Welcome to My Personal Website! This site highlights my work, achievements, and professional background. Here, you’ll find details about my industry experience, research, projects, and how to get in touch with me. :smile:
 
 ## About Me
 
-:wave: ​I am Irene Liu, a passionate data professional with a robust background in data science, technical communication management, and marketing. My expertise lies in integrating data-driven strategies with customer-centric approaches to enhance business performance across various industries, including Healthcare, Consumer Packaged Goods (CPG), and Fast-Moving Consumer Goods (FMCG). With a proven track record in leading cross-functional teams, I excel in transforming complex data into actionable insights and compelling narratives, ensuring precise messaging that resonates with target audiences. My passion for leveraging analytics and innovation drives meaningful value and fosters sustainable growth for businesses. :chart_with_upwards_trend: :smile: ​:tada:
+:wave: ​I am Irene Liu, a passionate data professional with a robust background in data science, technical communication management, and marketing. My expertise lies in integrating data-driven strategies with customer-centric approaches to enhance business performance across various industries, including Healthcare, Consumer Packaged Goods (CPG), and Fast-Moving Consumer Goods (FMCG). With a proven track record in leading cross-functional teams, I excel in transforming complex data into actionable insights and compelling narratives, ensuring precise messaging that resonates with target audiences. My passion for leveraging analytics and innovation drives meaningful value and fosters sustainable growth for businesses. :chart_with_upwards_trend: ​:tada:
 
 Feel free to check out my profile links below:
 
