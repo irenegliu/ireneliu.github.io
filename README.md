@@ -111,7 +111,7 @@ Feel free to check out my profile links below:
 
 ## Interests
 
-- **Sports and Outdoor Activities**: I have a passion for motorcycling, golf, squash, frisbee, and hiking, which keep me active and adventurous.​ :golf:​
+- **Sports and Outdoor Activities**: I have a passion for motorcycling, snowboarding, golf, squash, frisbee, and hiking, which keep me active and adventurous.​ :golf:​
 
 - **Leisure and Relaxation**: To unwind, I enjoy reading, baking, and spending quality time with my two furry friends. :dog2: :smiley_cat:​
 
