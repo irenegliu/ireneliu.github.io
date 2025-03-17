@@ -165,63 +165,70 @@ Bayesian models don’t just **predict an output**—they estimate **probabiliti
 
 ---
 
-This README **ensures proper GitHub markdown formatting** and **provides a clear structure for easy navigation**. Let me know if you'd like any additional refinements! 🚀
+# 🎓 **Education & Expertise Overview**  
 
+## 📌 **University of Chicago, Physical Sciences Division**  
+🎓 **M.S. in Applied Data Science** | *2023 - 2024*  
 
-## Education
+🔹 **Core AI/ML Concepts:** Mastered machine learning, deep learning, natural language processing (NLP), computer vision, and generative AI.  
+🔹 **AI Research Experience:** Engaged in cutting-edge AI projects, applying advanced modeling techniques.  
+🔹 **Programming & Implementation:** Specialized in Python for building and deploying AI/ML models.  
+🔹 **Analytical Problem-Solving:** Developed a strong foundation in tackling **complex AI challenges** through hands-on projects.  
 
-### University of Chicago, Physical Sciences Division  
-:bar_chart:  **M.S. in Applied Data Science** | 2023 - 2024  
-- **Core AI/ML Concepts**: Gained a strong understanding of machine learning algorithms, deep learning, natural language processing, computer vision, generative AI, and more.  
-- **Research Experience**: Engaged in AI-focused research projects, providing hands-on experience with cutting-edge AI techniques and preparing for research roles or contributing to AI advancements.  
-- **Programming Proficiency**: Emphasized Python and other programming languages to solve diverse context problems by developing and implementing AI/ML models.  
-- **Problem-Solving Skills**: Developed strong analytical and problem-solving skills through a rigorous curriculum, preparing to tackle complex AI challenges.
+---
 
-### Northwestern University  
-:mega: **M.S. in Integrated Marketing Communications** | 2018 - 2020  
-- **Strategic Brand & Product Management**: Built expertise in managing product portfolios, delivering measurable KPIs, optimizing ROI, and generating incremental margins through targeted brand strategies and marketing initiatives.
-- **Consumer Insights & Innovative Communication**: Developed skills to deeply understand consumer needs, leveraging a blend of qualitative and quantitative analysis to craft impactful, data-driven communication strategies.
-- **Executive-Level Leadership & Decision-Making**: Prepared for senior roles such as CMO, Chief Brand Officer, and Chief Customer Officer through rigorous training in strategic planning, cross-functional collaboration, and leadership within integrated marketing communications.
+## 📌 **Northwestern University, Medill School of Journalism**  
+📣 **M.S. in Integrated Marketing Communications** | *2018 - 2020*  
 
-### Purdue University, College of Agriculture  
-:briefcase: **B.S. in Agribusiness, Finance** | 2013 - 2016  
-- **Business Fundamentals & Organizational Insight**: Gained comprehensive knowledge of organizational structures, business law, international trade practices, economics, and statistics, enabling informed strategic decision-making across business contexts.
-- **Financial Acumen & Accounting Proficiency**: Developed a strong foundation in finance and accounting, including expertise in interpreting balance sheets, financial analysis, risk management, and evaluation of business opportunities.
-- **Agribusiness & Data-Driven Decision-Making**: Specialized in operations within agribusiness and the food industry, emphasizing data analytics, quantitative analysis, and evidence-based strategies to drive innovation and enhance operational efficiency.
+🔹 **Strategic Brand & Product Management:** Expertise in portfolio management, ROI optimization, and KPI-driven marketing.  
+🔹 **Consumer Insights & Communication:** Applied **data-driven marketing strategies** to enhance audience engagement.  
+🔹 **Leadership & Executive Decision-Making:** Prepared for roles like **CMO, Chief Brand Officer**, and **Customer Strategy Lead** through strategic planning and leadership training.  
 
-## Technical & Marketing Skills
+---
 
-**[Data Analytics & Marketing Intelligence]**
+## 📌 **Purdue University, College of Agriculture**  
+💼 **B.S. in Agribusiness, Finance** | *2013 - 2016*  
 
-  - Predictive Modeling & Machine Learning: Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV
-  - Marketing Mix Modeling (MMM) & Attribution Analysis: Time Series Forecasting, Multi-Touch Attribution (MTA), Uplift Modeling
-  - Statistical Analysis & Business Forecasting: Regression Analysis, Clustering, A/B Testing, Bayesian Optimization
-  - Customer Segmentation & Personalization: RFM Analysis, Churn Prediction, Customer Lifetime Value (CLV)
+🔹 **Business & Financial Strategy:** Proficiency in business law, international trade, and financial risk assessment.  
+🔹 **Financial Modeling & Analysis:** Strengthened expertise in balance sheets, risk management, and investment strategies.  
+🔹 **Agribusiness Operations & Analytics:** Leveraged **data analytics** to drive innovation in the **food and agricultural industry**.  
 
-**[Marketing Technology & Automation]**
-  - CRM & Campaign Optimization: Salesforce, Marketo, HubSpot, Klaviyo, Mailchimp, Hootsuite
-  - Omnichannel Marketing Analytics: Google Analytics, Tableau, Looker, SQL-based Data Exploration
-  - A/B Testing & Experimentation: Design, Execution, and Analysis of Marketing Campaigns
+---
 
-**[Cloud & Big Data Processing]**
-  - Cloud Platforms: AWS (EC2, S3, Redshift, DynamoDB), Google BigQuery, Apache Airflow, Kubernetes, Hadoop
-  - ETL & Data Warehousing: Apache Spark, DynamoDB, AWS S3, MySQL
-  - Data Pipeline & Automation: SQL, Pandas, NumPy, Dplyr, RStudio
+# 🛠 **Technical & Marketing Skills**  
 
-**[Data Visualization & Business Intelligence]**
-  - Executive-Level Reporting & Insights Presentation: Tableau, Looker, Power BI
-  - Data Storytelling & Marketing Performance Dashboards: ROI Analysis, KPI Tracking, Competitive Benchmarking
+## 📊 **[Data Analytics & Marketing Intelligence]**  
+✅ **Predictive Modeling & ML:** scikit-learn, TensorFlow, PyTorch, Keras, OpenCV  
+✅ **Marketing Mix Modeling (MMM) & Attribution:** Time Series Forecasting, Uplift Modeling  
+✅ **Statistical Analysis & Forecasting:** Regression, Clustering, A/B Testing, Bayesian Optimization  
+✅ **Customer Segmentation & Personalization:** RFM Analysis, Churn Prediction, Customer Lifetime Value (CLV)  
 
-**[Containerization & Deployment]**
-  - Model Deployment & Scalable Analytics: Docker, Kubernetes
+## 🎯 **[Marketing Technology & Automation]**  
+✅ **CRM & Campaign Optimization:** Salesforce, Marketo, HubSpot, Klaviyo  
+✅ **Omnichannel Marketing Analytics:** Google Analytics, Tableau, Looker, SQL  
+✅ **A/B Testing & Experimentation:** Design, Execution, and Performance Analysis  
 
-## Interests
+## ☁️ **[Cloud & Big Data Processing]**  
+✅ **Cloud Platforms:** AWS (EC2, S3, Redshift, DynamoDB), Google BigQuery, Apache Airflow  
+✅ **ETL & Data Warehousing:** Apache Spark, MySQL, AWS S3  
+✅ **Data Pipeline & Automation:** SQL, Pandas, NumPy, Dplyr, RStudio  
 
-- **Sports and Outdoor Activities**: I have a passion for motorcycling, snowboarding, golf, squash, frisbee, and hiking, which keep me active and adventurous.​ :golf:​
+## 📊 **[Data Visualization & Business Intelligence]**  
+✅ **Executive-Level Reporting:** Tableau, Looker, Power BI  
+✅ **Marketing Performance Dashboards:** ROI Analysis, KPI Tracking, Competitive Benchmarking  
 
-- **Leisure and Relaxation**: To unwind, I enjoy reading, baking, and spending quality time with my two furry friends. :dog2: :smiley_cat:​
+## 🚀 **[Containerization & Deployment]**  
+✅ **Model Deployment & Scalable Analytics:** Docker, Kubernetes  
 
-- **Creative Pursuits: Currently**, I'm learning to play the drums, embracing new challenges and expanding my creative horizons. :drum:
+---
+
+# 🌟 **Interests & Hobbies**  
+
+🏍️ **Adventure & Outdoor Sports:** Passionate about **motorcycling**, **snowboarding**, **golf**, **squash**, and **hiking**.  
+📖 **Leisure & Creativity:** Enjoys **reading**, **baking**, and **spending time with two furry companions**. 🐕😺  
+🥁 **Music & Learning:** Currently **learning to play the drums**, embracing creativity and new challenges.  
+
+---
 
 ## How to View the Website
 
