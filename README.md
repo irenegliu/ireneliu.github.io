@@ -143,18 +143,6 @@ This showcases a range of **AI, Machine Learning, and Data Science projects** ac
 ✅ **Bayesian Neural Networks (BNNs)** for uncertainty estimation  
 🔹 **Tools:** PyMC, NumPy, SciPy  
 
----
-
-## 🛠 **How Bayesian ML Works**  
-
-### 🔍 **Why Bayesian Inference?**  
-Bayesian models don’t just **predict an output**—they estimate **probabilities** and **uncertainties**, making them ideal for **healthcare and finance applications** where confidence matters.  
-
-### 📈 **Key Bayesian Techniques Used:**  
-🔹 **Bayesian Neural Networks (BNNs)** - Quantifies **uncertainty in predictions**.  
-🔹 **Gaussian Process Classification (GPC)** - Provides **high-confidence predictions**, useful for small datasets.  
-🔹 **Bayesian Logistic Regression (BLR)** - Helps **interpret model outputs** and identify important features.  
-🔹 **KL Weight Annealing** - Adjusts **Kullback-Leibler divergence** for better uncertainty control.  
 
 ---
 
